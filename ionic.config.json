@@ -1,0 +1,7 @@
+{
+  "name": "photo-sort",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
